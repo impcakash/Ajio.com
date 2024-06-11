@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^1.0.0-beta.1",
-    "tailwindcss": "^2.2.19"
+    "tailwindcss": "^2.2.19",
+    "uuid": "^10.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.24.7",
