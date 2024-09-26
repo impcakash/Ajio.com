@@ -1,6 +1,7 @@
 Clone Ajio.com
+link: https://impcakash.github.io/Ajio.com/
 
-This is the clone of Ajio.com ,which we made during the UNIT III construct week. This website behaves same as Ajio.com in functionality.
+This is the clone of Ajio.com, which we made during the UNIT III construct week. This website behaves the same as Ajio.com in functionality.
 
 ## Screenshots
 
@@ -10,25 +11,16 @@ This is the clone of Ajio.com ,which we made during the UNIT III construct week.
 
 ![App Screenshot](images/img45.png)
 
+## Website Flow :
+
+![App Screenshot](https://github.com/alhassan069/AJIO/blob/1d601e255827f728fcbd1c2a55ff6579e92e78da/images/img55.gif)
+
 ## Technologies Used
 
 - HTML
 - CSS
 - Tailwind CSS
-- JavScript
-
-## Getting Started :
-
-Prerequisites
-
-- VS Code
-  Installation
-- Clone the repository
-  Git Clone - https://github.com/alhassan069/AJIO
-
-## Website Flow :
-
-![App Screenshot](https://github.com/alhassan069/AJIO/blob/1d601e255827f728fcbd1c2a55ff6579e92e78da/images/img55.gif)
+- JavaScript
 
 ## Authors
 
