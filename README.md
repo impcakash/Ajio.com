@@ -1,7 +1,7 @@
 Clone Ajio.com
 link: https://impcakash.github.io/Ajio.com/
 
-This is the clone of Ajio.com, which we made during the UNIT III construct week. This website behaves the same as Ajio.com in functionality.
+This is the clone of Ajio.com. In functionality, this website behaves the same as Ajio.com.
 
 ## Screenshots
 
@@ -21,12 +21,4 @@ This is the clone of Ajio.com, which we made during the UNIT III construct week.
 - CSS
 - Tailwind CSS
 - JavaScript
-
-## Authors
-
-- [Saurabh Nimkande](https://github.com/saurabhnimkande)
-- [Thota Pavan Kumar](https://github.com/ThotaPavanKumar)
-- [Shubham Kumar](https://github.com/shubhamkr0412)
-- [Prakash Chandra Akash](https://github.com/impcakash)
-- [Raman Boddula](https://github.com/raman-boddula)
-- [Alimul Hassan](https://github.com/alhassan069)
+- Node.js
